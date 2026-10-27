@@ -1,0 +1,6 @@
+Django>=6.1
+djangorestframework>=3.16
+django-cors-headers>=4.7
+Pillow>=10
+# Optionnel : géolocalisation par IP (base GeoLite2-City.mmdb de MaxMind)
+# geoip2>=4.8
